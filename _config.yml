@@ -1,9 +1,9 @@
-title: Cedric Möller
+title: Cedric Moeller
 email: cedric.moeller@uni-hamburg.de
-description: >- # this means to ignore newlines until "baseurl:"
-  Hi, I am Cedric
-baseurl: "/me" # the subpath of your site, e.g. /blog
-url: "http:/cedricm.com" # the base hostname & protocol for your site, e.g. http://example.com
+description: >-
+  I am a Ph.D. student focusing on knowledge graphs, with interests in knowledge extraction, entity linking, relation extraction, QA, and GNNs. Currently employed at the University of Hamburg.
+baseurl: "/me"
+url: "http:/cedricm.com"
 github_username:  cedricmoeller
 
 # Build settings
