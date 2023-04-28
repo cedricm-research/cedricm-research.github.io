@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-## About Me
+## About Cedric Moeller
 
-I am a Ph.D. student focusing on knowledge graphs. My main research interests include knowledge extraction, entity linking, relation extraction, QA, and GNNs. I am currently employed at the University of Hamburg, where I am involved in teaching the Data Engineering course and the Knowledge Graph course.
+Cedric Moeller is an ambitious Ph.D. student specializing in knowledge graphs. His research interests encompass knowledge extraction, entity linking, relation extraction, QA, and GNNs. Cedric is dedicated to advancing the field by conducting innovative research and sharing his knowledge as a teaching assistant at the University of Hamburg.
 
-Before my Ph.D. studies, I worked at Fraunhofer IAIS in Dresden, where I was involved in the design and implementation of a Dialog System. I graduated from TU Dresden with a diploma in Computer Science.
+Cedric's previous experience includes working at Fraunhofer IAIS in Dresden, where he made significant contributions to the design and implementation of a Dialog System. He holds a diploma in Computer Science from TU Dresden.
 
 ## Education
-- Ph.D. Student, University of Hamburg (in progress)
-- Diploma in Computer Science, TU Dresden
+- **Ph.D. Student**, University of Hamburg (in progress)
+- **Diploma in Computer Science**, TU Dresden
 
 ## Skills
 - Knowledge Graphs
