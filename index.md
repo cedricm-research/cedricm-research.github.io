@@ -1,22 +1,31 @@
 ---
 layout: home
-title: Cedric Möller
+title: Cedric Moeller
 ---
 
-# Cedric Möller
+# Cedric Moeller
 
 ## About Me
-Add a brief introduction about yourself here. You can include your interests, education, and what you're currently working on.
+I am a Ph.D. student focusing on knowledge graphs. My main research interests include knowledge extraction, entity linking, relation extraction, QA, and GNNs. I am currently employed at the University of Hamburg, where I am involved in teaching the Data Engineering course and the Knowledge Graph course.
+
+Before my Ph.D. studies, I worked at Fraunhofer IAIS in Dresden, where I was involved in the design and implementation of a Dialog System. I graduated from TU Dresden with a diploma in Computer Science.
 
 ## Work Experience
-Replace this text with your work experience. Add multiple sections if needed.
+- Teaching Assistant, Data Engineering course, University of Hamburg
+- Teaching Assistant, Knowledge Graph course, University of Hamburg
+- Researcher, Dialog System Design and Implementation, Fraunhofer IAIS, Dresden
 
-## Publications
-Here, list your publications or papers. Add them in the format:
-- Title, Authors, Journal/Conference, Year, [Link](#)
+## Education
+- Ph.D. Student, University of Hamburg (in progress)
+- Diploma in Computer Science, TU Dresden
 
-## Projects
-Add information about your projects here. You can create a separate page for projects if you have many.
+## Research Interests
+- Knowledge Graphs
+- Knowledge Extraction
+- Entity Linking
+- Relation Extraction
+- Question Answering
+- Graph Neural Networks
 
 ## Contact
-Feel free to contact me through [email](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/), [Twitter](https://twitter.com/your-twitter-handle), or [GitHub](https://github.com/your-github-username).
+Feel free to contact me through [email](mailto:cedric.moeller@uni-hamburg.de) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/), [Twitter](https://twitter.com/your-twitter-handle), or [GitHub](https://github.com/your-github-username).
