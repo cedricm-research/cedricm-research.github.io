@@ -3,10 +3,15 @@ email: cedric.moeller@uni-hamburg.de
 description: >-
   Passionate Ph.D. student specializing in knowledge graphs, with a strong background in knowledge extraction, entity linking, relation extraction, QA, and GNNs. Currently employed at the University of Hamburg.
 baseurl: ""
-url: ""
+url: "https://cedricmoeller.github.io"
 github_username:  cedricmoeller
+author: Cedric Moeller
 
 # Build settings
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+markdown: kramdown
+
+exclude:
+  - README.md
