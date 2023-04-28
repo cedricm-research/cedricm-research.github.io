@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Cedric Moeller
+title: Home
 ---
 
 # Cedric Moeller
