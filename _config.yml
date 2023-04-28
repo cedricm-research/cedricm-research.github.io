@@ -1,1 +1,12 @@
+title: Cedric Möller
+email: cedric.moeller@uni-hamburg.de
+description: >- # this means to ignore newlines until "baseurl:"
+  Hi, I am Cedric
+baseurl: "/me" # the subpath of your site, e.g. /blog
+url: "http:/cedricm.com" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  cedricmoeller
+
+# Build settings
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
