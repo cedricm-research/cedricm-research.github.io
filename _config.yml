@@ -8,7 +8,7 @@ github_username:  cedricmoeller
 author: Cedric Moeller
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 markdown: kramdown
